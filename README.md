@@ -20,3 +20,14 @@ So using plotly ,I plotted the NBA dataset analysed result and we got the best v
 
 
 
+
+
+
+
+
+
+AND YES ONE MOST IMPORTANT THING IS TRY TO HOST THESE NOTEBOOK IN YOUR LOCAL SYSTEM TO VIEW THE 3D PLOTS
+
+
+
+
